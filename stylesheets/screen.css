@@ -1,3 +1,24 @@
+html, body {
+  height: 100%;
+}
+
+#root {
+  clear: both;
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin-bottom: -6em;
+}
+#root #root_footer {
+  height: 6em;
+}
+
+#footer {
+  clear: both;
+  position: relative;
+  height: 6em;
+}
+
 body {
   margin: 0;
   font-size: 18px;
