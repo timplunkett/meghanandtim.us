@@ -1,6 +1,35 @@
 @charset "UTF-8"
-
 @import compass
+
+$grey: #ccc
 
 body
   margin: 0
+  font-size: 18px
+
+header
+  background: $grey
+  text-align: center
+  .name
+    +clearfix
+  .meghan
+    +float-left
+  .tim
+    +float-right
+
+nav[role="navigation"]
+  border-width: 0.333em 0
+  border-style: solid
+  border-color: black
+  text-align: center
+  ul
+    font-size: 1.4em
+    line-height: 2
+    +inline-block-list
+
+footer
+  background: $grey
+  border-top: 0.333em solid #000
+  text-align: center
+  .contact
+    font-size: 1.15em

@@ -1,3 +1,58 @@
 body {
   margin: 0;
+  font-size: 18px;
+}
+
+header {
+  background: #cccccc;
+  text-align: center;
+}
+header .name {
+  overflow: hidden;
+  *zoom: 1;
+}
+header .meghan {
+  display: inline;
+  float: left;
+}
+header .tim {
+  display: inline;
+  float: right;
+}
+
+nav[role="navigation"] {
+  border-width: 0.333em 0;
+  border-style: solid;
+  border-color: black;
+  text-align: center;
+}
+nav[role="navigation"] ul {
+  font-size: 1.4em;
+  line-height: 2;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  overflow: hidden;
+  *zoom: 1;
+}
+nav[role="navigation"] ul li {
+  list-style-image: none;
+  list-style-type: none;
+  margin-left: 0;
+  display: -moz-inline-stack;
+  display: inline-block;
+  vertical-align: middle;
+  *vertical-align: auto;
+  zoom: 1;
+  *display: inline;
+  white-space: nowrap;
+}
+
+footer {
+  background: #cccccc;
+  border-top: 0.333em solid black;
+  text-align: center;
+}
+footer .contact {
+  font-size: 1.15em;
 }
