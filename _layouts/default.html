@@ -7,30 +7,28 @@
 </head>
 <body>
 
-<div class="site">
-  <div class="title">
-    <a href="/">Meghan and Tim</a>
-  </div>
-  <ul class="menu">
-    <li><a href="/about">About</a></li>
-    <li><a href="/ceremony-reception">Ceremony &amp; Reception</a></li>
-    <li><a href="/registries">Registries</a></li>
-    <li><a href="/travel-accommodations">Travel &amp; Accommodations</a></li>
-    <li><a href="/weekend">Weekend</a></li>
-  </ul>
+<header role="banner">
+  <a href="/">Meghan and Tim</a>
+  <nav role="navigation">
+    <ul class="menu">
+      <li><a href="/about">About</a></li>
+      <li><a href="/ceremony-reception">Ceremony &amp; Reception</a></li>
+      <li><a href="/registries">Registries</a></li>
+      <li><a href="/travel-accommodations">Travel &amp; Accommodations</a></li>
+      <li><a href="/weekend">Weekend</a></li>
+    </ul>
+  </nav>
+</header>
 
-  {{ content }}
+<main id="content" role="main">
+{{ content }}
+</main>
 
-  <div class="footer">
-    <div class="contact">
-      <p>
-        Meghan<br />
-        and<br />
-        Tim
-      </p>
-    </div>
-  </div>
-</div>
+<footer role="contentinfo">
+  <section class="contact">
+    <p>Meghan &amp; Tim</p>
+  </section>
+</footer>
 
 </body>
 </html>
