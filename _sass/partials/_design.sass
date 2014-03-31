@@ -15,12 +15,16 @@ nav[role="navigation"]
     font-size: 1.4em
     line-height: 2
     +inline-block-list
+  li
+    margin: 0 1rem
   a
     font-family: $font-serif
 
 // Header
-header .name
+header[role="banner"] .name
   padding: $padding-top-bottom
+  h1, h2
+    font-family: $font-headline
 .cap-p
   font-size: 3em
   line-height: 1
