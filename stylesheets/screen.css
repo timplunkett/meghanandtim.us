@@ -19,20 +19,6 @@ html, body {
   height: 6em;
 }
 
-a {
-  color: #081f2c;
-  text-decoration: none;
-}
-a:hover {
-  border-bottom: 1px solid #081f2c;
-}
-
-body {
-  border-top: #081f2c 20px solid;
-  margin: 0;
-  font-size: 18px;
-}
-
 header,
 main {
   margin: 0 auto;
@@ -40,7 +26,6 @@ main {
 }
 
 header {
-  background: white;
   text-align: center;
 }
 header .name {
@@ -56,10 +41,25 @@ header .tim {
   float: right;
 }
 
+a {
+  color: #081f2c;
+  text-decoration: none;
+}
+a:hover {
+  border-bottom: 1px solid #081f2c;
+}
+
+body {
+  border-top: #081f2c 20px solid;
+  margin: 0;
+  font-size: 18px;
+  line-height: 1.2;
+}
+
 nav[role="navigation"] {
   border-width: 0.333em 0;
   border-style: solid;
-  border-color: black;
+  border-color: #081f2c;
   text-align: center;
 }
 nav[role="navigation"] ul {
@@ -85,7 +85,7 @@ nav[role="navigation"] ul li {
 }
 
 footer {
-  background: #081f2c;
+  background: url('/images/black-paper.png') repeat-x;
   color: white;
   padding: 1em 0;
   text-align: center;

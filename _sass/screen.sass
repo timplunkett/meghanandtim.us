@@ -4,55 +4,7 @@
 
 @include sticky-footer(6em)
 
-// Variables
-$white: #fff
-$grey: #ccc
-$black: #000
-$navy: #081f2c
-
-$padding-top-bottom: 1em 0
-
-a
-  color: $navy
-  text-decoration: none
-  &:hover
-    border-bottom: 1px solid $navy
-
-
-body
-  border-top: $navy 20px solid
-  margin: 0
-  font-size: 18px
-
-header,
-main
-  margin: 0 auto
-  max-width: 60rem
-
-header
-  background: $white
-  text-align: center
-  .name
-    +clearfix
-  .meghan
-    +float-left
-  .tim
-    +float-right
-
-nav[role="navigation"]
-  border-width: 0.333em 0
-  border-style: solid
-  border-color: $black
-  text-align: center
-  ul
-    font-size: 1.4em
-    line-height: 2
-    +inline-block-list
-
-footer
-  background: $navy
-  color: $white
-  padding: $padding-top-bottom
-  text-align: center
-  .contact
-    font-size: 1.15em
+// Import partials
+@import partials/variables
+@import partials/layout
+@import partials/design
