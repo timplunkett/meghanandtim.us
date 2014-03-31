@@ -4,27 +4,26 @@ title: About us
 ---
 
 # About us
-How did you meet?
-What significant moments did you share in your relationship?
-What do you love doing together?
-How did the proposal go?
-Your website gives you the space to share these cute details with your guests.
-Don’t try to capture your entire history together.
-This text shouldn’t be too long.
-Try to be funny, touching and real in your writing.
-You can’t beat a good love story.
+### 2008
+In October 2008 at a General Body Meeting for WKDU, Drexel's student-run radio station, Tim purposefuly sat down in the chair next to Meghan, Meghan introduced herself, and that was the beginning of many missed connections, miscommunication and an otherwise on-and-off pursuit. On the election night of President Obama, Meghan was walking back to her dorm after finishing her radio show, as Tim was headed back to his house in West Philly, after biking down to City Hall to celebrate the win. As they walked through campus together, Meghan realized that she had feelings for Tim. Shortly after they kissed, started dating, and quickly became inseparable.
+
+### 2009
+In spring 2009 we were both elected to the executive staff at the radio station, Meghan as Public Relations Director and Tim as General Manager. That summer, we cleaned out the old exec office, and worked on the WKDU website together, which was the first Drupal site we launched as a pair.
+
+### 2010
+The next spring Tim left Drexel, as Meghan was elected to be the General Manager. During the summer of 2010 Meghan did her co-op and Tim did freelance work for the same company, Canary PR + Design. In the fall of 2010, Tim started working at Zivtech.
+
+### 2011
+Meghan was hired in March 2011 after she graduated from Drexel, as a designer. Shortly after we decided to move in together in Old City. At the end of the summer when Tim got back from Drupalcon London, we adopted Walker Texas Ranger, renamed Dodger, our rescue pitbull boston terrier mix. We loved living and working in Philly together, but we were also looking for the next thing.
+
+### 2012
+Tim became more active prominent in the Drupal community, and logged a lot of miles. In the fall we traveled to Munich, via Copenhagen and had an amazing time.
+
+### 2013
+In January 2013, we both interviewed for positions on the web team of the IT department at Stanford's Graduate School of Business. They made us an offer, and we decided to move to the Bay Area to fill the positions. In March 2013 we packed up everything and moved to Redwood City, CA.
 
 ## The Proposal
 
-## Timeline together
-
-- 2008 WKDU Met at a GBM
-- 2009 WKDU
-- 2010 WKDU
-- 2011 Philly, Dodger
-- 2012 Philly
-- 2013 Philly, California
-- 2014 California
 
 ## Us in numbers
 1. Cross-country move
@@ -43,7 +42,6 @@ You can’t beat a good love story.
 14. 'fourteen'
 15. 'fifteen'
 16. Months we've been engaged!
-
 
 ## Two of a kind
 - Meg eats the drumsticks, Tim eats the wings
