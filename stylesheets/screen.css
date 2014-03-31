@@ -19,26 +19,58 @@ html, body {
   height: 6em;
 }
 
-header,
-main {
-  margin: 0 auto;
-  max-width: 60rem;
+@font-face {
+  font-family: "Cylburn";
+  src: url('/fonts/normal');
+  src: url('/fonts/normal?#iefix') format('embedded-opentype'), url('/fonts/Cylburn.otf') format('opentype'), url('/fonts/Cylburn.ttf') format('truetype');
+  font-weight: normal;
 }
 
-header {
-  text-align: center;
+@font-face {
+  font-family: "Quaver Serif";
+  src: url('/fonts/normal');
+  src: url('/fonts/normal?#iefix') format('embedded-opentype'), url('/fonts/QuaverSerif.otf') format('opentype');
+  font-weight: normal;
 }
-header .name {
-  overflow: hidden;
-  *zoom: 1;
+
+@font-face {
+  font-family: "Quaver Sans";
+  src: url('/fonts/normal');
+  src: url('/fonts/normal?#iefix') format('embedded-opentype'), url('/fonts/QuaverSans.otf') format('opentype');
+  font-weight: normal;
 }
-header .meghan {
-  display: inline;
-  float: left;
+
+h1, h2, h3, h4, h5, h6 {
+  color: #081f2c;
+  font-family: "Cylburn";
+  font-weight: normal;
+  line-height: 1.5;
+  margin: 0;
+  text-rendering: optimizeLegibility;
 }
-header .tim {
-  display: inline;
-  float: right;
+
+h1 {
+  font-size: 48px;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+h3 {
+  font-size: 36px;
+}
+
+h4 {
+  font-size: 30px;
+}
+
+h5 {
+  font-size: 24px;
+}
+
+h6 {
+  font-size: 20px;
 }
 
 a {
@@ -49,11 +81,48 @@ a:hover {
   border-bottom: 1px solid #081f2c;
 }
 
-body {
-  border-top: #081f2c 20px solid;
-  margin: 0;
+p {
+  font-family: "Quaver Serif", "Goudy Old Style", "Garamond", "Georgia", "Times New Roman", Times, serif;
   font-size: 18px;
   line-height: 1.2;
+}
+
+header section,
+main,
+footer section {
+  margin: 0 auto;
+  max-width: 60rem;
+  padding: 0 1rem;
+}
+
+header {
+  text-align: center;
+}
+header .name {
+  overflow: hidden;
+  *zoom: 1;
+  max-width: 40rem;
+}
+header .meghan {
+  display: inline;
+  float: left;
+}
+header .tim {
+  display: inline;
+  float: right;
+}
+header h1 {
+  display: inline-block;
+}
+
+main {
+  padding: 2rem;
+}
+
+body {
+  border-top: #081f2c 20px solid;
+  color: #555555;
+  margin: 0;
 }
 
 nav[role="navigation"] {
@@ -83,12 +152,27 @@ nav[role="navigation"] ul li {
   *display: inline;
   white-space: nowrap;
 }
+nav[role="navigation"] a {
+  font-family: "Quaver Serif", "Goudy Old Style", "Garamond", "Georgia", "Times New Roman", Times, serif;
+}
+
+header .name {
+  padding: 1em 0;
+}
+
+.cap-p {
+  font-size: 3em;
+  line-height: 1;
+}
+.cap-p:hover {
+  border-bottom: 0;
+  color: black;
+}
 
 footer {
   background: url('/images/black-paper.png') repeat-x;
   color: white;
   padding: 1em 0;
-  text-align: center;
 }
 footer .contact {
   font-size: 1.15em;
