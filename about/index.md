@@ -5,22 +5,34 @@ title: About us
 
 # About us
 ### 2008
-In October 2008 at a General Body Meeting for WKDU, Drexel's student-run radio station, Tim purposefuly sat down in the chair next to Meghan, Meghan introduced herself, and that was the beginning of many missed connections, miscommunication and an otherwise on-and-off pursuit. On the election night of President Obama, Meghan was walking back to her dorm after finishing her radio show, as Tim was headed back to his house in West Philly, after biking down to City Hall to celebrate the win. As they walked through campus together, Meghan realized that she had feelings for Tim. Shortly after they kissed, started dating, and quickly became inseparable.
+In October 2008 at a General Body Meeting for WKDU, Drexel's student-run radio station, Tim purposefuly sat down in the chair next to Meghan, Meghan introduced herself, and that was the beginning of many missed connections, miscommunications, and an otherwise on-and-off pursuit.
+On the election night of President Obama, Meghan was walking back to her dorm after finishing her radio show, as Tim was headed back to his house in West Philly, after biking down to City Hall to celebrate the win.
+As they walked through campus together, Meghan realized that she had feelings for Tim.
+Shortly after they kissed for the first time, started dating, and quickly became inseparable.
 
 ### 2009
-In spring 2009 we were both elected to the executive staff at the radio station, Meghan as Public Relations Director and Tim as General Manager. That summer, we cleaned out the old exec office, and worked on the WKDU website together, which was the first Drupal site we launched as a pair.
+In spring 2009 we were both elected to the executive staff at the radio station, Meghan as Public Relations Director and Tim as General Manager.
+That summer, we cleaned out the old exec office, and worked on the new WKDU website together, which was the first Drupal site we launched as a pair.
 
 ### 2010
-The next spring Tim left Drexel, as Meghan was elected to be the General Manager. During the summer of 2010 Meghan did her co-op and Tim did freelance work for the same company, Canary PR + Design. In the fall of 2010, Tim started working at Zivtech.
+The next spring Tim left Drexel, as Meghan was elected to be the General Manager.
+During the summer of 2010 Meghan did her co-op and Tim did freelance work for the same company, Canary PR + Design.
+In the fall of 2010, Tim started working at Zivtech.
 
 ### 2011
-Meghan was hired in March 2011 after she graduated from Drexel, as a designer. Shortly after we decided to move in together in Old City. At the end of the summer when Tim got back from Drupalcon London, we adopted Walker Texas Ranger, renamed Dodger, our rescue pitbull boston terrier mix. We loved living and working in Philly together, but we were also looking for the next thing.
+Meghan was hired in March 2011 after she graduated from Drexel, as a designer.
+Shortly after we decided to move in together in Old City.
+At the end of the summer when Tim got back from Drupalcon London, we adopted Walker Texas Ranger, renamed Dodger, our rescue pit bull/Boston terrier mix.
+We loved living and working in Philly together, but we were also looking for the next thing.
 
 ### 2012
-Tim became more active prominent in the Drupal community, and logged a lot of miles. In the fall we traveled to Munich, via Copenhagen and had an amazing time.
+Tim became more active prominent in the Drupal community, and logged a lot of miles traveling to conferences.
+In the fall we traveled to Munich, via Copenhagen and had an amazing time.
 
 ### 2013
-In January 2013, we both interviewed for positions on the web team of the IT department at Stanford's Graduate School of Business. They made us an offer, and we decided to move to the Bay Area to fill the positions. In March 2013 we packed up everything and moved to Redwood City, CA.
+In January 2013, we both interviewed for positions on the web team of the IT department at Stanford's Graduate School of Business.
+They made us an offer, and we decided to move to the Bay Area to fill the positions.
+In March 2013 we packed up everything and moved to Redwood City, CA.
 
 ## The Proposal
 
