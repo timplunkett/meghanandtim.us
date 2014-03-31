@@ -19,13 +19,28 @@ html, body {
   height: 6em;
 }
 
+a {
+  color: #081f2c;
+  text-decoration: none;
+}
+a:hover {
+  border-bottom: 1px solid #081f2c;
+}
+
 body {
+  border-top: #081f2c 20px solid;
   margin: 0;
   font-size: 18px;
 }
 
+header,
+main {
+  margin: 0 auto;
+  max-width: 60rem;
+}
+
 header {
-  background: #cccccc;
+  background: white;
   text-align: center;
 }
 header .name {
@@ -70,8 +85,9 @@ nav[role="navigation"] ul li {
 }
 
 footer {
-  background: #cccccc;
-  border-top: 0.333em solid black;
+  background: #081f2c;
+  color: white;
+  padding: 1em 0;
   text-align: center;
 }
 footer .contact {

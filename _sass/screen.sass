@@ -4,14 +4,33 @@
 
 @include sticky-footer(6em)
 
+// Variables
+$white: #fff
 $grey: #ccc
+$black: #000
+$navy: #081f2c
+
+$padding-top-bottom: 1em 0
+
+a
+  color: $navy
+  text-decoration: none
+  &:hover
+    border-bottom: 1px solid $navy
+
 
 body
+  border-top: $navy 20px solid
   margin: 0
   font-size: 18px
 
+header,
+main
+  margin: 0 auto
+  max-width: 60rem
+
 header
-  background: $grey
+  background: $white
   text-align: center
   .name
     +clearfix
@@ -23,7 +42,7 @@ header
 nav[role="navigation"]
   border-width: 0.333em 0
   border-style: solid
-  border-color: black
+  border-color: $black
   text-align: center
   ul
     font-size: 1.4em
@@ -31,8 +50,9 @@ nav[role="navigation"]
     +inline-block-list
 
 footer
-  background: $grey
-  border-top: 0.333em solid #000
+  background: $navy
+  color: $white
+  padding: $padding-top-bottom
   text-align: center
   .contact
     font-size: 1.15em
