@@ -111,7 +111,7 @@ header .tim {
   display: inline;
   float: right;
 }
-header h1 {
+header .cap-p {
   display: inline-block;
 }
 
@@ -166,11 +166,11 @@ header[role="banner"] .name h1, header[role="banner"] .name h2 {
   font-family: "Cylburn";
 }
 
-.cap-p {
+.cap-p a {
   font-size: 3em;
   line-height: 1;
 }
-.cap-p:hover {
+.cap-p a:hover {
   border-bottom: 0;
   color: black;
 }
