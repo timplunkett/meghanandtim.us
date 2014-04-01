@@ -99,9 +99,16 @@ header {
   text-align: center;
 }
 header .name {
-  overflow: hidden;
   *zoom: 1;
   max-width: 40rem;
+}
+header .name:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+header .names {
+  line-height: 2;
 }
 header .meghan {
   display: inline;
@@ -113,6 +120,8 @@ header .tim {
 }
 header .cap-p {
   display: inline-block;
+  margin-top: 0.25rem;
+  margin-bottom: -100%;
 }
 
 main {
