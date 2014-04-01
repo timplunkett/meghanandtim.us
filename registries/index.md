@@ -3,6 +3,6 @@ layout: page
 title: Registries
 ---
 
-# Registry
+# Registries
 
-We are registered at Crate & Barrel & Amazon.com
+We are registered at Crate &amp; Barrel and Amazon.com
