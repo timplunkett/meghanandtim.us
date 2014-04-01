@@ -21,22 +21,22 @@ html, body {
 
 @font-face {
   font-family: "Cylburn";
-  src: url('/fonts/normal');
-  src: url('/fonts/normal?#iefix') format('embedded-opentype'), url('/fonts/Cylburn.otf') format('opentype'), url('/fonts/Cylburn.ttf') format('truetype');
+  src: url('../fonts/normal');
+  src: url('../fonts/normal?#iefix') format('embedded-opentype'), url('../fonts/Cylburn.otf') format('opentype'), url('../fonts/Cylburn.ttf') format('truetype');
   font-weight: normal;
 }
 
 @font-face {
   font-family: "Quaver Serif";
-  src: url('/fonts/normal');
-  src: url('/fonts/normal?#iefix') format('embedded-opentype'), url('/fonts/QuaverSerif.otf') format('opentype');
+  src: url('../fonts/normal');
+  src: url('../fonts/normal?#iefix') format('embedded-opentype'), url('../fonts/QuaverSerif.otf') format('opentype');
   font-weight: normal;
 }
 
 @font-face {
   font-family: "Quaver Sans";
-  src: url('/fonts/normal');
-  src: url('/fonts/normal?#iefix') format('embedded-opentype'), url('/fonts/QuaverSans.otf') format('opentype');
+  src: url('../fonts/normal');
+  src: url('../fonts/normal?#iefix') format('embedded-opentype'), url('../fonts/QuaverSans.otf') format('opentype');
   font-weight: normal;
 }
 
@@ -176,7 +176,7 @@ header[role="banner"] .name h1, header[role="banner"] .name h2 {
 }
 
 footer {
-  background: url('/images/black-paper.png') repeat-x;
+  background: url('../images/black-paper.png') repeat-x;
   color: white;
   padding: 1em 0;
 }
