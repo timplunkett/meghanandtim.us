@@ -1,24 +1,3 @@
-html, body {
-  height: 100%;
-}
-
-#root {
-  clear: both;
-  min-height: 100%;
-  height: auto !important;
-  height: 100%;
-  margin-bottom: -6em;
-}
-#root #root_footer {
-  height: 6em;
-}
-
-#footer {
-  clear: both;
-  position: relative;
-  height: 6em;
-}
-
 @font-face {
   font-family: "Cylburn";
   src: url('../fonts/normal');
@@ -191,4 +170,25 @@ footer {
 }
 footer .contact {
   font-size: 1.15em;
+}
+
+html, body {
+  height: 100%;
+}
+
+#root {
+  clear: both;
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin-bottom: -7rem;
+}
+#root #root_footer {
+  height: 7rem;
+}
+
+#footer {
+  clear: both;
+  position: relative;
+  height: 7rem;
 }
