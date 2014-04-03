@@ -141,10 +141,18 @@ nav[role="navigation"] ul li {
   white-space: nowrap;
 }
 nav[role="navigation"] li {
-  margin: 0 1rem;
+  margin: 0 4.4rem;
 }
 nav[role="navigation"] a {
   font-family: "Quaver Serif", "Goudy Old Style", "Garamond", "Georgia", "Times New Roman", Times, serif;
+}
+
+.info {
+  background: #081f2c;
+  text-align: center;
+}
+.info h1, .info h2 {
+  color: white;
 }
 
 header[role="banner"] .name {
