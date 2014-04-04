@@ -4,59 +4,34 @@ title: About us
 ---
 
 # About us
-### 2008
-In October 2008 at a General Body Meeting for WKDU, Drexel's student-run radio station, Tim purposefuly sat down in the chair next to Meghan, Meghan introduced herself, and that was the beginning of many missed connections, miscommunications, and an otherwise on-and-off pursuit.
-On the election night of President Obama, Meghan was walking back to her dorm after finishing her radio show, as Tim was headed back to his house in West Philly, after biking down to City Hall to celebrate the win.
-As they walked through campus together, Meghan realized that she had feelings for Tim.
-Shortly after they kissed for the first time, started dating, and quickly became inseparable.
 
-### 2009
-In spring 2009 we were both elected to the executive staff at the radio station, Meghan as Public Relations Director and Tim as General Manager.
-That summer, we cleaned out the old exec office, and worked on the new WKDU website together, which was the first Drupal site we launched as a pair.
-
-### 2010
-The next spring Tim left Drexel, as Meghan was elected to be the General Manager.
-During the summer of 2010 Meghan did her co-op and Tim did freelance work for the same company, Canary PR + Design.
-In the fall of 2010, Tim started working at Zivtech.
-
-### 2011
-Meghan was hired in March 2011 after she graduated from Drexel, as a designer.
-Shortly after we decided to move in together in Old City.
-At the end of the summer when Tim got back from Drupalcon London, we adopted Walker Texas Ranger, renamed Dodger, our rescue pit bull/Boston terrier mix.
-We loved living and working in Philly together, but we were also looking for the next thing.
-
-### 2012
-Tim became more active prominent in the Drupal community, and logged a lot of miles traveling to conferences.
-In the fall we traveled to Munich, via Copenhagen and had an amazing time.
-
-### 2013
-In January 2013, we both interviewed for positions on the web team of the IT department at Stanford's Graduate School of Business.
-They made us an offer, and we decided to move to the Bay Area to fill the positions.
-In March 2013 we packed up everything and moved to Redwood City, CA.
 
 ## The Proposal
 
+From Meghan's point-of-view:
+On Tim's birthday we had plans to go to dinner at Martin's West in Redwood City. It was nice June evening, though a bit on the cool side. We had a really nice dinner, though I remeber Tim was acting a bit jittery throughout the meal, and I was slightly tired from work.  After we finished eating, Tim suggested we stroll around Redwood City since it was not quite sunset. I agreed, though I was wearing a short slleeve dress and didn't bring a coat. Tim offered be his sport jacket, but I declined since I was being stubborn. We walked around the corner to The San Mateo County Hall of Justice, which was featured in "Harold and Maude" when Maude saves a tree. Tim wante to sit under it, but I didn't want to stay there because there was a highschool couple making out. We walked to a park near the library, but there were higschoolers hanging out there too. I was getting grumpy because I was cold and wanted to get home, so Tim agreed that we go home.  When we got home, we greeted the dog, and were chatting in the kitchen. All of a sudden, Tim kneeled down in front of me, and asked me if I would marry him. I started crying and pulled him to his feet, and hugged him, when he said, smiling, "You didn't answer yet." I laughed and said, "Yes!". The ring is beautiful and it fit perfectly.  I had no idea he was planning to propose, especially on his birthday. Even though by that time  it was late, I called my parents and sister to tell them, and texted my friends to tell everyone the good news.
+
 
 ## Us in numbers
-1. Cross-country move
-2. Trips to Copenhagen
-3. Shared addresses
-4. Number of television shows we have watched every season of together <!-- The Office, The West Wing, Heroes, 30 Rock -->
-5. Years together
-6. Number of working Apple devices in our house <!-- 2 phones, 2 laptops, 1 shuffle, 1 mac mini -->
-7. Major US cites we've visited together <!-- San Francisco, Portland, Las Vegas, New Orleans, New York City, Philadelphia, San Jose -->
-8. 'eight'
-9. 'nine'
-10. 'ten'
-11. 'eleven'
-12. 'twelve'
-13. 'thirteen'
-14. 'fourteen'
-15. 'fifteen'
-16. Months we've been engaged!
+1. One cross-country move
+2. Two trips to Copenhagen
+3. Three shared addresses
+4. Four television shows we have watched every season of together <!-- The Office, The West Wing, Heroes, 30 Rock -->
+5. Five years as a couple
+6. Six working Apple devices in our house <!-- 2 phones, 2 laptops, 1 shuffle, 1 mac mini -->
+7. Seven major US cites we've visited together <!-- San Francisco, Portland, Las Vegas, New Orleans, New York City, Philadelphia, San Jose -->
 
-## Two of a kind
-- Meg eats the drumsticks, Tim eats the wings
+## It takes two
+
+### Chicken wings
+- Megh eats the drumsticks, Tim eats the wings
+- Megh eats the carrots, Tim eats the celery
+
+### Morning commute
+- Tim drives to work in the morning
+- Megh drives home
+
+### 
 
 ## The Wedding Party
 
