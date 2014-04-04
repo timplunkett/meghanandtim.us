@@ -44,41 +44,32 @@ Even though by that time it was late, I called my parents and sister, and texted
 
 7. Seven major US cites we've visited together <!-- San Francisco, Portland, Las Vegas, New Orleans, New York City, Philadelphia, San Jose -->
 
-## It takes two
-
-### Chicken wings
-- Megh eats the drumsticks, Tim eats the wings
-
-- Megh eats the carrots, Tim eats the celery
-
-### Morning commute
-- Tim drives to work in the morning
-
-- Megh drives home
-
 ## The Wedding Party
 
 ### Bridesmaids
 
 #### Kimberly Palagyi, The Maid of Honor
+##### Sister
 Kim is Meghan's sister whom she adores and loves dearly.
 Though they are four years apart, they could pass as twins to people who haven't met them.
-They are very close and share the same sense of humor, many of the same mannerisms, and even their shoe size.
+They are very close and share the same sense of humor, many of the same mannerisms, and even the same shoe size.
 Meghan has always wanted to be blonde like Kim.
 
 Kim will be a senior at the College of Wooster in Wooster, Ohio this fall.
 She is an Urban Studies major, and spent this past fall semester studying abroad in Copenhagen, Denmark.
 Kim is minoring in sculpture and materials explorations, and spends much of her time outside of class crafting beautifully sculpted pieces out of wood.
 
-#### Julia Winder, Best friend from high school, Bridesmaid
-Julia and Megh met at Princeton High School through mutual friends.
+#### Julia Winder
+##### Best friend from high school
+Julia and Meghan met at Princeton High School through mutual friends.
 They were on the swim team sophomore winter together, suffering through two-a-days and dry land workouts.
 Much to the chagrin of their teachers, the two had the majority of their classes together senior year, causing all sorts of mayhem and antics, in addition to being super peer group leaders!
 
 Last fall, Meghan was thrilled that Julia moved to San Francisco, enabling them to spend a lot more time together and have a blast in the Bay Area.
-Meghan admires Julia's effervescent energy, perpetual warmth towards family and acquaintaces alike, and feels so very lucky to have her as a friend.
+Meghan admires Julia's effervescent energy, perpetual warmth towards family, and acquaintaces alike, and feels so very lucky to have her as a friend.
 
-#### Sarah Solomon, Best friend from college, Bridesmaid
+#### Sarah Solomon
+##### Best friend from college
 Sarah and Meghan became fast friends their freshman year at Drexel, initially due in part to their preppy sensibilities.
 Coincidentally, both were graphic design majors assigned to the top floor of the freshman honors Race Street dormitory.
 Through college they maintained their "honors advantage" together, figuring out which classes to take and how to get ahead in the major.
