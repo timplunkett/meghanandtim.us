@@ -22,7 +22,6 @@
 h1, h2, h3, h4, h5, h6 {
   color: #081f2c;
   font-family: "Quaver Serif", "Goudy Old Style", "Garamond", "Georgia", "Times New Roman", Times, serif;
-  font-weight: normal;
   line-height: 1.5;
   margin: 0;
   text-rendering: optimizeLegibility;
@@ -61,7 +60,7 @@ a:hover {
 }
 
 p {
-  font-family: "Quaver Serif", "Goudy Old Style", "Garamond", "Georgia", "Times New Roman", Times, serif;
+  font-family: "Garamond", "Georgia", "Times New Roman", Times, serif;
   font-size: 20px;
   line-height: 1.3;
 }
