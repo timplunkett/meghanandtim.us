@@ -146,11 +146,11 @@ nav[role="navigation"] a {
   font-family: "Quaver Serif", "Goudy Old Style", "Garamond", "Georgia", "Times New Roman", Times, serif;
 }
 
-.info {
+.information {
   background: #081f2c;
   text-align: center;
 }
-.info h1, .info h2 {
+.information h1, .information h2 {
   color: white;
 }
 
