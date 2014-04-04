@@ -83,7 +83,19 @@ Meghan is thrilled that Sarah will be standing with her on their wedding day.
 ### Groomsmen
 
 #### Zach Faden, Best Man
-Zach and Tim have been friends since 1st grade.
+##### Best friend growing up
+Growing up just a couple blocks apart, Zach and Tim have been friends since 1st grade.
+Even in the years they were in different classes, or later, in different schools, Zach and Tim were always close.
+Through the many sleepovers, games of ping-pong and chess, street hockey, and sharing of a good book, Zach has been a big part of Tim's life, and continues to be a reliable friend.
 
-#### Dustin Ingram, Groomsman
-Dustin and Tim were college roommates for three years.
+After finishing a dual degree at American University in Washington D.C., Zach completed his Masters at The University of Edinburgh in Scotland, and now lives in Washington D.C., consulting for the Department of Defense.
+
+
+#### Dustin Ingram
+##### Best friend in college
+Dustin and Tim met during freshmen year at Drexel, thanks to some mutual friends.
+Although they were both computer science majors, they never seemed to have any classes together, and took very different directions within the computer science field.
+Starting in sophomore year, Dustin and Tim were roommates in the same house for three years.
+Bikes, beer, spray paint, parties, and late nights coding were shared.
+
+After completeing his Masters, and working for the Naval Research Laboratory, Dustin recently complete a cross-country bike trip, travelling from Philadelphia through St. Augustine, FL and ending in San Diego, CA.
