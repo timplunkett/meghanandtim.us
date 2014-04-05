@@ -16,7 +16,9 @@ nav[role="navigation"]
     line-height: 2
     +inline-block-list
   li
-    margin: 0 4.4rem
+    margin: 0 2.5rem
+    &:last-child
+      margin-right: 0
   a
     font-family: $font-serif
 
@@ -56,7 +58,7 @@ header[role="banner"] .name
     margin-left: 24px
     width: 72px
     +transition-property(hover)
-    +transition-timing-function(ease-in)
+    +transition-timing-function(ease-in-out)
     +transition-duration(1s)
     &:hover
       border-bottom: 0

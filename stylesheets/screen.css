@@ -139,7 +139,10 @@ nav[role="navigation"] ul li {
   white-space: nowrap;
 }
 nav[role="navigation"] li {
-  margin: 0 4.4rem;
+  margin: 0 2.5rem;
+}
+nav[role="navigation"] li:last-child {
+  margin-right: 0;
 }
 nav[role="navigation"] a {
   font-family: "Quaver Serif", "Goudy Old Style", "Garamond", "Georgia", "Times New Roman", Times, serif;
@@ -190,10 +193,10 @@ header[role="banner"] .name h1, header[role="banner"] .name h2 {
   -moz-transition-property: hover;
   -o-transition-property: hover;
   transition-property: hover;
-  -webkit-transition-timing-function: ease-in;
-  -moz-transition-timing-function: ease-in;
-  -o-transition-timing-function: ease-in;
-  transition-timing-function: ease-in;
+  -webkit-transition-timing-function: ease-in-out;
+  -moz-transition-timing-function: ease-in-out;
+  -o-transition-timing-function: ease-in-out;
+  transition-timing-function: ease-in-out;
   -webkit-transition-duration: 1s;
   -moz-transition-duration: 1s;
   -o-transition-duration: 1s;
