@@ -86,7 +86,7 @@ header .name:after {
   clear: both;
 }
 header .names {
-  line-height: 2;
+  line-height: 3;
 }
 header .meghan {
   display: inline;
@@ -99,7 +99,6 @@ header .tim {
 header .cap-p {
   display: inline-block;
   margin-top: 0.25rem;
-  margin-bottom: -100%;
 }
 
 main {
@@ -179,12 +178,30 @@ header[role="banner"] .name h1, header[role="banner"] .name h2 {
 }
 
 .cap-p a {
+  color: #c4d0d1;
+  display: block;
+  font-family: "Quaver Serif", "Goudy Old Style", "Garamond", "Georgia", "Times New Roman", Times, serif;
   font-size: 3em;
+  height: 105px;
   line-height: 1;
+  margin-left: 24px;
+  width: 72px;
+  -webkit-transition-property: hover;
+  -moz-transition-property: hover;
+  -o-transition-property: hover;
+  transition-property: hover;
+  -webkit-transition-timing-function: ease-in;
+  -moz-transition-timing-function: ease-in;
+  -o-transition-timing-function: ease-in;
+  transition-timing-function: ease-in;
+  -webkit-transition-duration: 1s;
+  -moz-transition-duration: 1s;
+  -o-transition-duration: 1s;
+  transition-duration: 1s;
 }
 .cap-p a:hover {
   border-bottom: 0;
-  color: black;
+  color: #081f2c;
 }
 
 footer {

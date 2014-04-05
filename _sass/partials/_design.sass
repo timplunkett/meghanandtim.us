@@ -37,7 +37,6 @@ nav[role="navigation"]
     margin-bottom: 20px
   .venue
     margin-bottom: 10px
-  .address
   .zip-code
     font-size: 30px
 
@@ -48,11 +47,20 @@ header[role="banner"] .name
     font-family: $font-headline
 .cap-p
   a
+    color: $grey-blue
+    display: block
+    font-family: $font-serif
     font-size: 3em
+    height: 105px
     line-height: 1
+    margin-left: 24px
+    width: 72px
+    +transition-property(hover)
+    +transition-timing-function(ease-in)
+    +transition-duration(1s)
     &:hover
       border-bottom: 0
-      color: $black
+      color: $navy
 
 // Footer
 footer
