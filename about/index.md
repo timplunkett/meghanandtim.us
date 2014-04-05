@@ -3,6 +3,7 @@ layout: page
 title: About us
 ---
 
+<!--
 # The Proposal
 
 ### From Meghan's point-of-view
@@ -28,6 +29,7 @@ The beautiful ring fit perfectly.
 I had no idea he was planning to propose, especially on his birthday.
 We opened some champagne and let the moment soak in.
 Even though by that time it was late, I called my parents and sister, and texted friends to tell everyone the good news!
+-->
 
 ## Us in numbers
 1. One cross-country move
