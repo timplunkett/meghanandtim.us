@@ -69,7 +69,7 @@ header section,
 main,
 footer section {
   margin: 0 auto;
-  max-width: 60rem;
+  max-width: 50rem;
   padding: 0 1rem;
 }
 
@@ -148,14 +148,31 @@ nav[role="navigation"] a {
 
 .information {
   background: #081f2c;
+  padding: 20px 0;
   text-align: center;
 }
-.information h1, .information h2 {
+.information .sub-header {
   color: white;
+  font-family: "Cylburn";
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+.information h1, .information h2, .information h3 {
+  color: white;
+  line-height: 1;
+}
+.information .date {
+  margin-bottom: 20px;
+}
+.information .venue {
+  margin-bottom: 10px;
+}
+.information .zip-code {
+  font-size: 30px;
 }
 
 header[role="banner"] .name {
-  padding: 1em 0;
+  padding: 1.5rem 0;
 }
 header[role="banner"] .name h1, header[role="banner"] .name h2 {
   font-family: "Cylburn";
@@ -173,7 +190,7 @@ header[role="banner"] .name h1, header[role="banner"] .name h2 {
 footer {
   background: url('../images/black-paper.png') repeat-x;
   color: white;
-  padding: 1em 0;
+  padding: 1.5rem 0;
   padding-bottom: 0;
 }
 footer .contact {
