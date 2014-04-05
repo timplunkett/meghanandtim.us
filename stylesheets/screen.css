@@ -208,6 +208,7 @@ header[role="banner"] .name h1, header[role="banner"] .name h2 {
 }
 
 footer {
+  background: #081f2c;
   background: url('../images/black-paper.png') repeat-x;
   color: white;
   padding: 1.5rem 0;
