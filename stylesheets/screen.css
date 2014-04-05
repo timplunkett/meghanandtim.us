@@ -214,6 +214,12 @@ footer .contact {
   font-size: 1.15em;
 }
 
+.welcome {
+  float: left;
+  margin-right: 20px;
+  margin-top: 14px;
+}
+
 html, body {
   height: 100%;
 }
