@@ -3,6 +3,9 @@ layout: page
 title: About Us
 ---
 
+{:.alamo-square}
+![Meghan and Tim](/images/us-alamo-square.jpg)
+
 # The Proposal
 
 ### From Meghan's point-of-view

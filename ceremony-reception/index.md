@@ -5,8 +5,8 @@ title: Ceremony &amp; Reception
 
 # Ceremony &amp; Reception
 
-{:.washingtion-crossing-inn}
-![Meghan and Tim](/images/washingtion-crossing-inn.jpg)
+{:.washington-crossing-inn}
+![Meghan and Tim](/images/washington-crossing-inn.jpg)
 
 We are excited to hold our ceremony and reception at the Washington Crossing Inn.
 Our venue search started with manors and estates in the Philadelphia area.
