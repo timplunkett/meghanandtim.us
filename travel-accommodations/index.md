@@ -29,4 +29,7 @@ A shuttle to the Washington Crossing Inn will run twice to the venue, and twice 
 1295 General Washington Mem Blvd  
 Washington Crossing, PA 18977
 
+#### Parking
+There is a parking lot right next the the Inn, and there will most likely be valet parking that evening.
+
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?ie=UTF8&amp;f=d&amp;daddr=Washington+Crossing+Inn,+1295+General+Washington+Memorial+Blvd,+Washington+Crossing,+PA+18977&amp;geocode=Cclhk28XrCpjFZHUZgIdjI6J-yEJbNmGFaN4-g&amp;gl=US&amp;hl=en&amp;t=m&amp;ll=40.293521,-74.871156&amp;spn=0.006295,0.008253&amp;output=embed">Map</iframe>
