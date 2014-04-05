@@ -1,3 +1,202 @@
-body {
+@font-face {
+  font-family: "Cylburn";
+  src: url('../fonts/normal');
+  src: url('../fonts/normal?#iefix') format('embedded-opentype'), url('../fonts/Cylburn.otf') format('opentype'), url('../fonts/Cylburn.ttf') format('truetype');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Quaver Serif";
+  src: url('../fonts/normal');
+  src: url('../fonts/normal?#iefix') format('embedded-opentype'), url('../fonts/QuaverSerif.otf') format('opentype');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Quaver Sans";
+  src: url('../fonts/normal');
+  src: url('../fonts/normal?#iefix') format('embedded-opentype'), url('../fonts/QuaverSans.otf') format('opentype');
+  font-weight: normal;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #081f2c;
+  font-family: "Quaver Serif", "Goudy Old Style", "Garamond", "Georgia", "Times New Roman", Times, serif;
+  line-height: 1.5;
   margin: 0;
+  text-rendering: optimizeLegibility;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+h3 {
+  font-size: 36px;
+}
+
+h4 {
+  font-size: 30px;
+}
+
+h5 {
+  font-size: 24px;
+}
+
+h6 {
+  font-size: 22px;
+}
+
+a {
+  color: #081f2c;
+  text-decoration: none;
+}
+a:hover {
+  border-bottom: 1px solid #081f2c;
+}
+
+p {
+  font-family: "Garamond", "Georgia", "Times New Roman", Times, serif;
+  font-size: 20px;
+  line-height: 1.3;
+}
+
+header section,
+main,
+footer section {
+  margin: 0 auto;
+  max-width: 60rem;
+  padding: 0 1rem;
+}
+
+header {
+  text-align: center;
+}
+header .name {
+  *zoom: 1;
+  max-width: 40rem;
+}
+header .name:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+header .names {
+  line-height: 2;
+}
+header .meghan {
+  display: inline;
+  float: left;
+}
+header .tim {
+  display: inline;
+  float: right;
+}
+header .cap-p {
+  display: inline-block;
+  margin-top: 0.25rem;
+  margin-bottom: -100%;
+}
+
+main {
+  padding: 2rem;
+}
+
+body {
+  border-top: #081f2c 20px solid;
+  color: #555555;
+  margin: 0;
+}
+
+nav[role="navigation"] {
+  border-width: 0.333em 0;
+  border-style: solid;
+  border-color: #081f2c;
+  text-align: center;
+}
+nav[role="navigation"] ul {
+  font-size: 1.4em;
+  line-height: 2;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  overflow: hidden;
+  *zoom: 1;
+}
+nav[role="navigation"] ul li {
+  list-style-image: none;
+  list-style-type: none;
+  margin-left: 0;
+  display: -moz-inline-stack;
+  display: inline-block;
+  vertical-align: middle;
+  *vertical-align: auto;
+  zoom: 1;
+  *display: inline;
+  white-space: nowrap;
+}
+nav[role="navigation"] li {
+  margin: 0 4.4rem;
+}
+nav[role="navigation"] a {
+  font-family: "Quaver Serif", "Goudy Old Style", "Garamond", "Georgia", "Times New Roman", Times, serif;
+}
+
+.information {
+  background: #081f2c;
+  text-align: center;
+}
+.information h1, .information h2 {
+  color: white;
+}
+
+header[role="banner"] .name {
+  padding: 1em 0;
+}
+header[role="banner"] .name h1, header[role="banner"] .name h2 {
+  font-family: "Cylburn";
+}
+
+.cap-p a {
+  font-size: 3em;
+  line-height: 1;
+}
+.cap-p a:hover {
+  border-bottom: 0;
+  color: black;
+}
+
+footer {
+  background: url('../images/black-paper.png') repeat-x;
+  color: white;
+  padding: 1em 0;
+  padding-bottom: 0;
+}
+footer .contact {
+  font-size: 1.15em;
+}
+
+html, body {
+  height: 100%;
+}
+
+#root {
+  clear: both;
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin-bottom: -9rem;
+}
+#root #root_footer {
+  height: 9rem;
+}
+
+#footer {
+  clear: both;
+  position: relative;
+  height: 9rem;
 }

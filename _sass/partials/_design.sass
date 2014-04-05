@@ -1,0 +1,50 @@
+// Design
+
+body
+  border-top: $navy 20px solid
+  color: $text-grey
+  margin: 0
+
+// Navigation
+nav[role="navigation"]
+  border-width: 0.333em 0
+  border-style: solid
+  border-color: $navy
+  text-align: center
+  ul
+    font-size: 1.4em
+    line-height: 2
+    +inline-block-list
+  li
+    margin: 0 4.4rem
+  a
+    font-family: $font-serif
+
+// Information
+.information
+  background: $navy
+  text-align: center
+  h1, h2
+    color: $white
+
+// Header
+header[role="banner"] .name
+  padding: $padding-top-bottom
+  h1, h2
+    font-family: $font-headline
+.cap-p
+  a
+    font-size: 3em
+    line-height: 1
+    &:hover
+      border-bottom: 0
+      color: $black
+
+// Footer
+footer
+  +background(image_url("black-paper.png") repeat-x)
+  color: $white
+  padding: $padding-top-bottom
+  padding-bottom: 0
+  .contact
+    font-size: 1.15em

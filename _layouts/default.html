@@ -7,8 +7,13 @@
 </head>
 <body>
 
+<div id="root">
 <header role="banner">
-  <a href="/">Meghan and Tim</a>
+  <section class="name">
+    <h1 class="cap-p"><a href="/">P</a></h1>
+    <h2 class="names meghan">Meghan Palagyi</h2>
+    <h2 class="names tim">Timothy Plunkett</h2>
+  </section>
   <nav role="navigation">
     <ul class="menu">
       <li><a href="/about">About</a></li>
@@ -20,13 +25,14 @@
   </nav>
 </header>
 
-<main id="content" role="main">
 {{ content }}
-</main>
+<div id="root_footer"></div>
+</div>
 
-<footer role="contentinfo">
+<footer role="contentinfo" id="footer">
   <section class="contact">
-    <p>Meghan &amp; Tim</p>
+    <p>Saturday October 11, 2014</p>
+    <p>The Washington Crossing Inn</p>
   </section>
 </footer>
 

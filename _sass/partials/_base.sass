@@ -1,0 +1,52 @@
+// Base styles
+
+// Header elements
+%h1, %h2, %h3, %h4, %h5, %h6
+  color: $navy
+  font-family: $font-serif
+  line-height: 1.5
+  margin: 0
+  text-rendering: optimizeLegibility
+
+%h1
+  font-size: 48px
+
+%h2
+  font-size: 40px
+
+%h3
+  font-size: 36px
+
+%h4
+  font-size: 30px
+
+%h5
+  font-size: 24px
+
+%h6
+  font-size: 22px
+
+h1
+  @extend %h1
+h2
+  @extend %h2
+h3
+  @extend %h3
+h4
+  @extend %h4
+h5
+  @extend %h5
+h6
+  @extend %h6
+
+// Body elements
+a
+  color: $navy
+  text-decoration: none
+  &:hover
+    border-bottom: 1px solid $navy
+
+p
+  font-family: $font-body
+  font-size: 20px
+  line-height: 1.3
