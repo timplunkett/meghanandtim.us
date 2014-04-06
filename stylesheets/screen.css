@@ -231,6 +231,10 @@ footer .contact {
   text-align: center;
 }
 
+iframe {
+  margin-bottom: 20px;
+}
+
 html, body {
   height: 100%;
 }
