@@ -12,7 +12,7 @@ title: About Us
 Meghan made dinner reservations for Tim's birthday, and they had a really nice time at a restaurant in Redwood City. 
 
 After they got home, they were chatting in the kitchen.
-Suddenly, Tim kneeled down in front of Meghan with a ring in a box, and asked if she would marry him.
+Suddenly, Tim knelt down in front of Meghan with a ring in a box, and asked if she would marry him.
 Meghan started crying and pulled him to his feet, hugging him.
 He said, smiling, "You didn't answer yet."
 She laughed and said, "Yes!".
