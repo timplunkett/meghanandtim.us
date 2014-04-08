@@ -15,8 +15,8 @@ They are very close and share the same sense of humor, many of the same manneris
 Meghan has always wanted to be blonde like Kim.
 
 Kim will be a senior at the College of Wooster in Wooster, Ohio this fall.
-She is an Urban Studies major, and spent this past fall semester studying abroad in Copenhagen, Denmark.
-Kim is minoring in sculpture and materials explorations, and spends much of her time outside of class crafting beautifully sculpted pieces out of wood.
+She is an Urban Studies major and a studio art minor whose primary focus is sculpture.
+This past fall semester she studied abroad in Copenhagen, Denmark and hopes to go back soon!
 
 #### Julia Winder
 
