@@ -16,8 +16,8 @@ The Inn is a charming traditional colonial-style building just a short walk from
 
 [Read more](http://www.washingtoncrossinginn.com/about) about the history of the venue.
 
-### Gazebo Ceremony - 5:30PM
-Our ceremony will be held outdoors in the Washington Crossing Inn garden beginning at 5:30PM.
+### Gazebo Ceremony - 5:30pm
+Our ceremony will be held outdoors in the Washington Crossing Inn garden beginning at 5:30pm.
 In the event of inclement weather, the ceremony will be moved under a tent on the grounds.
 The ceremony will be presided over by our officiant, Renee Mundy.
 
@@ -25,5 +25,5 @@ The ceremony will be presided over by our officiant, Renee Mundy.
 Please join us for a cocktail hour on the patio in the garden, immediately following the ceremony.
 There will be passed hors d'oeuvres and a jazz trio.
 
-### Reception - 7:00PM
-A seated dinner, followed by dancing will be held in the ballroom beginning at 7:00PM.
+### Reception - 7:00pm
+A seated dinner, followed by dancing will be held in the ballroom beginning at 7:00pm.

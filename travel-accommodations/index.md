@@ -31,7 +31,7 @@ Room rates for Saturday night
 - Studio King Suite $159.00
 - Studio Queen $159.00
 
-Check-in time is 3:00PM and check-out time is 12:00PM.
+Check-in time is 3:00pm and check-out time is 12:00pm.
 
 ##### Shuttle
 A shuttle to the Washington Crossing Inn will run twice to the venue before the ceremony, and twice from the venue towards the end of the reception for guests staying at the hotel.
