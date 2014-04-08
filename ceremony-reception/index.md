@@ -7,6 +7,7 @@ title: Ceremony &amp; Reception
 
 {:.washington-crossing-inn}
 ![Meghan and Tim](/images/washington-crossing-inn.jpg)
+<span class="photo-credit">Photo credit: [Mary &amp; Roy](http://maryandroy.com)</span>
 
 We are excited to hold our ceremony and reception at the Washington Crossing Inn.
 Our venue search started with manors and estates in the Philadelphia area.
