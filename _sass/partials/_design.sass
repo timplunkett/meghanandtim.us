@@ -21,14 +21,25 @@ nav[role="navigation"]
       margin-left: 0
     &:last-child
       margin-right: 0
+    @media (max-width: $bp-phone-touch-landscape)
+      display: block !important
+      text-align: left
+      margin-left: 3rem !important
   a
     font-family: $font-serif
+
+// Page titles
+main h1
+  @media (max-width: $bp-phone-touch-landscape)
+    margin-bottom: 1.5rem
 
 // Information
 .information
   background: $navy
   padding: 20px 0
   text-align: center
+  @media (max-width: $bp-phone-touch-landscape)
+    padding: 1rem
   .sub-header
     color: $white
     font-family: $font-script
@@ -45,10 +56,31 @@ nav[role="navigation"]
     font-size: 30px
 
 // Header
-header[role="banner"] .name
-  padding: $padding-top-bottom
-  h1, h2
-    font-family: $font-headline
+header[role="banner"]
+  .name
+    padding: $padding-top-bottom
+    @media (max-width: $bp-phone-touch-landscape)
+      padding: 1rem
+      .names
+        display: block
+        float: none
+        line-height: 1.2
+      .meghan
+        &:after
+          content: "&"
+          display: block
+          font-family: $font-serif
+      .cap-p
+        margin: 0
+        position: relative
+        left: 10px
+        a
+          margin: 0
+
+    h1, h2
+      font-family: $font-headline
+
+// Capital P
 .cap-p
   a
     color: $grey-blue
@@ -82,7 +114,7 @@ footer
 .welcome
   float: left
   margin-right: 20px
-  margin-top: 14px
+  margin-top: 10px
 
 // About
 .alamo-square

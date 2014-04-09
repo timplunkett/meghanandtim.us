@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About us
+title: Wedding Party
 ---
 
-## The Wedding Party
+# The Wedding Party
 
 #### Kimberly Palagyi, The Maid of Honor
 
