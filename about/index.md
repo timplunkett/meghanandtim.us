@@ -5,6 +5,7 @@ title: About Us
 
 {:.alamo-square}
 ![Meghan and Tim](/images/us-alamo-square.jpg)
+<span class="photo-credit">Photo credit: Steve Chaya</span>
 
 # About us
 
