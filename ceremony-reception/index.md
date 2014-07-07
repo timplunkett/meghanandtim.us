@@ -39,3 +39,6 @@ A seated dinner, followed by dancing will be held in the ballroom beginning at 7
 
 **12oz NY Strip Steak**  
 *With roasted garlic and herb butter*
+
+**Dietary restrictions**  
+Please note preferences or restrictions (vegetarian, food allergy, etc.) on RSVP card.
