@@ -14,3 +14,6 @@ While we have counted on and trusted each other throughout our relationship, the
 We are thrilled to be exchanging our vows in October, and we hope you will be there to share the day with us.
 
 <strong>We can’t wait to celebrate with you!</strong>
+
+### Entree options
+The entree options have been posted on the [Ceremony & Reception](/ceremony-reception#entree-options) page.
