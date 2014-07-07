@@ -29,7 +29,7 @@ There will be passed hors d'oeuvres and a jazz trio.
 ### Reception - 7:00pm
 A seated dinner, followed by dancing will be held in the ballroom beginning at 7:00pm.
 
-#### Entrée options
+#### Entree options
 
 **Chicken Roulade**  
 *With spinach, fontina, and sundried tomato pesto with a wild mushroom gravy*
