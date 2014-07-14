@@ -133,18 +133,16 @@ header .name:after {
 }
 header .names {
   line-height: 3;
+  padding-top: 3px;
 }
 header .meghan {
-  display: inline;
   float: left;
 }
 header .tim {
-  display: inline;
   float: right;
 }
 header .cap-p {
   display: inline-block;
-  margin-top: 0.25rem;
 }
 
 main {
@@ -263,27 +261,32 @@ header[role="banner"] .name {
     display: block;
     font-family: "Quaver Serif", "Goudy Old Style", "Garamond", "Georgia", "Times New Roman", Times, serif;
   }
-  header[role="banner"] .name .cap-p {
-    margin: 0;
-    position: relative;
-    left: 10px;
-  }
-  header[role="banner"] .name .cap-p a {
-    margin: 0;
-  }
 }
 header[role="banner"] .name h1, header[role="banner"] .name h2 {
   font-family: "Cylburn";
 }
 
+.cap-p {
+  margin-top: 0.25rem;
+  position: relative;
+}
+@media (max-width: 568px) {
+  .cap-p {
+    margin-bottom: 0.5em;
+    margin-top: 0;
+    position: relative;
+    left: 12px;
+  }
+}
 .cap-p a {
   color: #c4d0d1;
   display: block;
   font-family: "Quaver Serif", "Goudy Old Style", "Garamond", "Georgia", "Times New Roman", Times, serif;
   font-size: 3em;
   height: 105px;
+  left: -25px;
   line-height: 1;
-  margin-left: 24px;
+  position: absolute;
   width: 72px;
   -webkit-transition-property: hover;
   -moz-transition-property: hover;
@@ -297,6 +300,16 @@ header[role="banner"] .name h1, header[role="banner"] .name h2 {
   -moz-transition-duration: 1s;
   -o-transition-duration: 1s;
   transition-duration: 1s;
+}
+@media (max-width: 568px) {
+  .cap-p a {
+    font-size: 2em;
+    height: 58px;
+    left: 0;
+    margin: 0;
+    position: relative;
+    width: 40px;
+  }
 }
 .cap-p a:hover {
   border-bottom: 0;
