@@ -70,30 +70,39 @@ header[role="banner"]
           content: "&"
           display: block
           font-family: $font-serif
-      .cap-p
-        margin: 0
-        position: relative
-        left: 10px
-        a
-          margin: 0
 
     h1, h2
       font-family: $font-headline
 
 // Capital P
 .cap-p
+  margin-top: 0.25rem
+  position: relative
+  @media (max-width: $bp-phone-touch-landscape)
+    margin-bottom: 0.5em
+    margin-top: 0
+    position: relative
+    left: 12px
   a
     color: $grey-blue
     display: block
     font-family: $font-serif
     font-size: 3em
     height: 105px
+    left: -25px
     line-height: 1
-    margin-left: 24px
+    position: absolute
     width: 72px
     +transition-property(hover)
     +transition-timing-function(ease-in-out)
     +transition-duration(1s)
+    @media (max-width: $bp-phone-touch-landscape)
+      font-size: 2em
+      height: 58px
+      left: 0
+      margin: 0
+      position: relative
+      width: 40px
     &:hover
       border-bottom: 0
       color: $navy
@@ -111,10 +120,18 @@ footer
 // Images
 
 // Front page
+#were-getting-married
+  line-height: 1
+
+.entree-options
+  float: left
+
 .welcome
   float: left
+  margin-bottom: 0
   margin-right: 20px
-  margin-top: 10px
+  margin-top: 0
+  max-height: 297px
 
 // About
 .alamo-square
@@ -131,3 +148,19 @@ iframe
   text-align: right
   a
     font-weight: normal
+
+// Wedding party
+.bio
+  &:first-letter
+    float: left
+    font-family: $font-script
+    font-size: 3em
+    line-height: 0.8
+    padding-right: 8px
+
+#kimberly-palagyi-the-maid-of-honor,
+#julia-winder,
+#sarah-solomon,
+#zach-faden-best-man,
+#dustin-ingram
+  line-height: 1
