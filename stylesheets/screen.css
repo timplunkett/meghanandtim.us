@@ -342,6 +342,11 @@ footer .contact {
   margin-top: 0;
   max-height: 297px;
 }
+@media (max-width: 480px) {
+  .welcome {
+    margin-bottom: 20px;
+  }
+}
 
 .alamo-square {
   text-align: center;
