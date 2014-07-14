@@ -6,7 +6,6 @@ title: Meghan &amp; Tim
 {:.welcome}
 ![Meghan and Tim](/images/us-vegas.png)
 
-
 ### We're getting married!
 
 Over the past five and a half years we have made many big decisions together, but deciding to get married is the most significant milestone yet.
@@ -15,5 +14,7 @@ We are thrilled to be exchanging our vows in October, and we hope you will be th
 
 <strong>We can’t wait to celebrate with you!</strong>
 
-### Entree options
-The entree options have been posted on the [Ceremony & Reception](/ceremony-reception#entree-options) page.
+<div class="entree-options">
+  <h3>Entree options</h3>
+  <p>The entree options have been posted on the <a href="/ceremony-reception#entree-options">Ceremony &amp; Reception</a> page.</p>
+</div>

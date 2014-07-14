@@ -103,6 +103,10 @@ p a, ul a, ol a {
   font-weight: bold;
 }
 
+p {
+  margin: 10px 0;
+}
+
 img {
   width: 100%;
 }
@@ -144,7 +148,13 @@ header .cap-p {
 }
 
 main {
+  *zoom: 1;
   padding: 2rem;
+}
+main:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 body {
@@ -304,10 +314,20 @@ footer .contact {
   font-size: 1.15em;
 }
 
+#were-getting-married {
+  line-height: 1;
+}
+
+.entree-options {
+  float: left;
+}
+
 .welcome {
   float: left;
+  margin-bottom: 0;
   margin-right: 20px;
-  margin-top: 10px;
+  margin-top: 0;
+  max-height: 297px;
 }
 
 .alamo-square {
@@ -326,6 +346,22 @@ iframe {
 }
 .photo-credit a {
   font-weight: normal;
+}
+
+.bio:first-letter {
+  float: left;
+  font-family: "Cylburn";
+  font-size: 3em;
+  line-height: 0.8;
+  padding-right: 8px;
+}
+
+#kimberly-palagyi-the-maid-of-honor,
+#julia-winder,
+#sarah-solomon,
+#zach-faden-best-man,
+#dustin-ingram {
+  line-height: 1;
 }
 
 html, body {
