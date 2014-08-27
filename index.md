@@ -4,7 +4,7 @@ title: Meghan &amp; Tim
 ---
 
 {:.welcome}
-![Meghan and Tim](/images/us-vegas.png)
+![Meghan and Tim](/images/us-rob-wedding.jpg)
 
 ### We're getting married!
 
